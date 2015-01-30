@@ -1,0 +1,7 @@
+.file.js-details-container.reviewed {
+  opacity: 0.3;
+}
+
+.file.js-details-container.reviewed > .data {
+  display: none;
+}

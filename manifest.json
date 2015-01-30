@@ -1,0 +1,14 @@
+{
+  "name": "Github PR Reviewer",
+  "description": "Mark files off as you review them",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "css": ["mystyles.css"],
+      "js": ["jquery.js", "content_script.js"]
+    }
+  ],
+  "icons": { "128": "github-256-check.png" },
+  "manifest_version": 2
+}
