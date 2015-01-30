@@ -2,7 +2,7 @@
 
 Chrome extension that just runs a simple script while on github to add a checkbox to PR files. When you click the checkbox it collapses it so you can keep track of which files you have already reviewed.
 
-<img src="./example1.png" width="50%" height="50%" alt="Preview Image" />
+<img src="./example1.png" width="189" alt="Preview Image" />
 
 ## Installation
 
