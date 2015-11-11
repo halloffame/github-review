@@ -4,6 +4,7 @@ $('.file.js-details-container > .file-header').each(function() {
 })
 
 $('.mark_as_reviewed').click(function(){
+  this.blur(); // Remove focus from link
   $(this).parents('.file.js-details-container').toggleClass('reviewed');
   return false;
 })
