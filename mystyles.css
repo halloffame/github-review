@@ -2,6 +2,6 @@
   opacity: 0.3;
 }
 
-.file.js-details-container.reviewed > .data {
+.file.js-details-container.reviewed > .js-file-content {
   display: none;
 }
