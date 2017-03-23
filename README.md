@@ -1,3 +1,9 @@
+# No Longer Supported
+
+Github finally released this feature. So now this chrome extension is of no use anymore.
+
+------
+
 # Github PR Reviewer
 
 Chrome extension that just runs a simple script while on github to add a checkbox to PR files. When you click the checkbox it collapses it so you can keep track of which files you have already reviewed.
